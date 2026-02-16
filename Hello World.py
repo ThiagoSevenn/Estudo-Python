@@ -14,4 +14,4 @@
 # Biotecnologia
 # Computação 3D
 
-print("Hello World!")
+print('Hello World!')
