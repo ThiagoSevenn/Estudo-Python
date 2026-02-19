@@ -38,6 +38,14 @@ print('Sem seguir esse padrão e exigindo que ele finalize com um "terminei." ',
 
 print('\n')
 
+# Utilizar 3 aspas simples quando foi referenciar um texto maior.
+print('''O relógio de pulso de Arthur não marcava as horas, mas sim a distância exata até o 
+próximo suspiro de uma estrela moribunda. Ele caminhava por uma avenida onde o 
+asfalto parecia feito de memórias líquidas, refletindo não o céu cinzento de Vênus, mas as 
+tardes de domingo que ele nunca viveu. "A entropia é apenas uma questão de 
+perspectiva", murmurou para um robô de limpeza que tentava, inutilmente, varrer a 
+poeira cósmica de uma calçada invisível.''')
+
 print('{:_^40}'.format('Formatação Float'))
 
 # Formatação de tipo Float
