@@ -1,3 +1,5 @@
+### Presente a partir do 'Desafio 016' ###
+
 # Assim como outras linguagens de programação o python é cheio de bibliotecas 
 # que disponibilizam ao programa utilizar diversos recursos diferentes visando suprir as necessidades do programador.
 

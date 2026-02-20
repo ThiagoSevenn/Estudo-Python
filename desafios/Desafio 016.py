@@ -1,1 +1,0 @@
-# Crie um programa que leia um número Real qualquer e mostre na tela a sua porção inteira.

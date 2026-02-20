@@ -1,3 +1,5 @@
+### Presente a partir do 'Desafio 022' - 'Desafio 027 ###
+
 # Cadeia de caracteres ou String é armazenada na memória como um conjunto de caracteres individuas,
 # o espaço(' ') também conta como caracter.
 
@@ -70,6 +72,7 @@ frase_nova = '  Aprendendo Python  '
 
 print(frase_nova.strip())
 
+## Algumas funções tem essa disponibilidade de fazer pela direita e esquerda, tem que testar (não são todas)
 ## Tirar os espaços a esquerda(lstrip) e os da direita(rstrip)
 print(frase_nova.rstrip())
 print(frase_nova.lstrip())

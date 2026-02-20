@@ -1,3 +1,4 @@
+### Presente a partir do 'Desafio 005' ###
 # Ordem de processamento das expressões aritméticas. DICA: É igual a ordem de precedência com expressões matemáticas.
 # 1ª ~> ()
 # 2ª ~> **
