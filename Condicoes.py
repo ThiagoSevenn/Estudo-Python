@@ -23,7 +23,7 @@ nome = input('Digite seu primeiro nome: ')
 
 print()
 
-## Exemplo com elif
+## Exemplo com elif (Condicional aninhada)
 if(nome == 'joaozin'):
     print('Opa, como vai joaozin?')
 elif(nome == 'jotinha'):
