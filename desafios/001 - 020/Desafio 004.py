@@ -1,4 +1,4 @@
-# Faça um programa que receba um input e mostre na tela o seu time primitivo e todas as possíveis informações sobre ela. 
+# Faça um programa que receba um input e mostre na tela o seu tipo primitivo e todas as possíveis informações sobre ela. 
 # Utilize as funções '.is...'
 
 input = input('Digite algo: ')
