@@ -3,6 +3,7 @@
 
 # Existem algumas formas de desenvolver esses laços, sendo eles utilizando a estrutura "for" e/ou "While",
 # serão apresentados a seguir. 
+# Em python não existe o "do while" que existe em outras liguagens, porém há a possibilidade de simular isso.
 
 ## Estrutura "for" conhecida como 'Estrutura de repetição com variável de controle'
 print(f'----{'Estrutura "For"': ^20}----\n')
@@ -38,7 +39,14 @@ while numero_desconhecido != 10:
     numero_desconhecido = int(input('Digite um número inteiro: '))
     print('Esse número não é conhecido.' if numero_desconhecido != 10 else 'Esse número é conhecido, parando o while.')
 
+print()
+
+## Existe a chance de utilizar o 'break' para encerrar ações dentro de uma estrutura de repetição
+while True:
+    numero = int(input('Digite um número(diferente de 0): '))
+    if numero == 0:
+        print('Quis ser engraçadinho né...')
+        break
+
 print('-'*30 + '\n')
-
-
  
