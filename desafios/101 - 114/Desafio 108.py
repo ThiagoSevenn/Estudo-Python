@@ -1,0 +1,2 @@
+# Modifique as funções que foram criadas no 'Desafio 106.py' para que elas aceitem um parâmetro a maior, informando se o valor retornado por elas vai ser ou não
+# formatado pela função moeda(), desenvolvida no 'Desafio 107.py'
